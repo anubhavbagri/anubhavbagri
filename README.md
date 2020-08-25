@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@oyebagri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oyebagri)](https://twitter.com/oyebagri) [![Linkedin Badge](https://img.shields.io/badge/-AnubhavBagri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-bagri-72a662190/)](https://www.linkedin.com/in/anubhav-bagri-72a662190/)
 [![Gmail Badge](https://img.shields.io/badge/-anubhavbagri01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavbagri01@gmail.com)](mailto:anubhavbagri01@gmail.com)
 
-## I am a Designer, Developer and Coder. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## I am a Designer, Developer and Coder. <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
 I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly motivated and enthusiastic guy. I am a keen observer and always inquisitive to learn new things. I am always looking for growth and a chance to build up my skills. I fit beautifully to the environment and add to the diversity of the team. Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
