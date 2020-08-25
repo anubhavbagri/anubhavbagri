@@ -1,5 +1,5 @@
 # Hello, there. 👋
-[![Twitter Badge](https://img.shields.io/badge/-@oyebagri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oyebagri)](https://twitter.com/oyebagri) [![Linkedin Badge](https://img.shields.io/badge/-anubhavbagri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-bagri-72a662190/)](https://www.linkedin.com/in/anubhav-bagri-72a662190/)
+[![Twitter Badge](https://img.shields.io/badge/-@oyebagri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oyebagri)](https://twitter.com/oyebagri) [![Linkedin Badge](https://img.shields.io/badge/-Anubhav Bagri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-bagri-72a662190/)](https://www.linkedin.com/in/anubhav-bagri-72a662190/)
 [![Gmail Badge](https://img.shields.io/badge/-anubhavbagri01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavbagri01@gmail.com)](mailto:anubhavbagri01@gmail.com)
 
 ## I am a Designer, Developer and Coder. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
