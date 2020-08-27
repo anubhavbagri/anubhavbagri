@@ -8,7 +8,7 @@ I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly moti
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-### Summary👋
+### Summary 👨‍
 - 🔭 I’m currently working on improving my concepts of Data Structures.
 - 🌱 I'm currently learning C++.
 - 💻 I love designing be it graphics or UI. You can check my portfolio here : [Behance](https://www.behance.net/anubhavbagri)
