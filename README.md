@@ -10,7 +10,7 @@ I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly moti
 
 ### Summary 👨‍
 - 🔭 I’m currently working on improving my concepts of Data Structures.
-- 🌱 I'm currently learning C++.
+- 🌱 I'm currently learning Javascript.
 - 💻 I love designing be it graphics or UI. You can check my portfolio here : [Behance](https://www.behance.net/anubhavbagri)
 - 👯 I’m looking to collaborate on project ideas and participate actively in hackathons.
 - 💬 Ask me anything. Atleast, I'll try. 
