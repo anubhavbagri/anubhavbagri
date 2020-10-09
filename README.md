@@ -22,12 +22,12 @@
 I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly motivated and enthusiastic guy. I am a keen observer and always inquisitive to learn new things. I am always looking for growth and a chance to build up my skills. I fit beautifully to the environment and add to the diversity of the team. Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
 ### Summary 👨‍
-- 🔭 I’m currently working on improving my concepts of Data Structures.
-- 🌱 I'm currently learning Javascript.
+- 🔭 I’m constantly trying to improve my concepts of Data Structures.
+- 🌱 I'm currently learning flutter.
 - 💻 I love designing be it graphics or UI. You can check my portfolio here : [Behance](https://www.behance.net/anubhavbagri)
 - 👯 I’m looking to collaborate on project ideas and participate actively in hackathons.
 - 💬 Ask me anything. Atleast, I'll try. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhav-bagri-72a662190/) , [Email](mailto:anubhavbagri01@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhav-bagri-72a662190/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavbagri&label=Profile Views&color=blue&style=plastic" alt="anubhavbagri" /> </p>
 
