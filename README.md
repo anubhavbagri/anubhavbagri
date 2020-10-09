@@ -16,7 +16,7 @@
   <img align="left" alt="Anubhav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="left"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ## Hello there 👋
 I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly motivated and enthusiastic guy. I am a keen observer and always inquisitive to learn new things. I am always looking for growth and a chance to build up my skills. I fit beautifully to the environment and add to the diversity of the team. Currently, I am looking for internships and research projects in the field of Computer science and engineering.
