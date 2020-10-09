@@ -16,6 +16,10 @@ I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly moti
 - 💬 Ask me anything. Atleast, I'll try. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhav-bagri-72a662190/) , [Email](mailto:anubhavbagri01@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api?username=anubhavbagri&show_icons=true)
+<!--- ![](https://github-readme-stats.vercel.app/api?username=anubhavbagri&show_icons=true)  -->
+<a href="https://github.com/anubhavbagri">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavbagri&show_icons=true&theme=dracula&line_height=27" alt="Anubhav's github stats"/>
+</a>
+<!--- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anubhavbagri.anubhavbagri) -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anubhavbagri.anubhavbagri)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavbagri&label=Profile Views&color=blue&style=plastic" alt="anubhavbagri" /> </p>
