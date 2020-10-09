@@ -1,6 +1,20 @@
 # Hello, there. 👋
-<!--- [![Twitter Badge](https://img.shields.io/badge/-@oyebagri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oyebagri)](https://twitter.com/oyebagri) [![Linkedin Badge](https://img.shields.io/badge/-AnubhavBagri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-bagri-72a662190/)](https://www.linkedin.com/in/anubhav-bagri-72a662190/)
-[![Gmail Badge](https://img.shields.io/badge/-anubhavbagri01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavbagri01@gmail.com)](mailto:anubhavbagri01@gmail.com) -->
+
+<a href="https://www.linkedin.com/in/anubhavbagri/">
+  <img align="left" alt="Rishi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.behance.net/anubhavbagri">
+  <img align="left" alt="Rishi's Facabook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
+
+<a href="https://github.com/anubhavbagri">
+  <img align="left" alt="Rishi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.instagram.com/oyebagri/">
+  <img align="left" alt="Rishi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 ## I am a Designer, Developer and Coder. <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
@@ -16,10 +30,9 @@ I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly moti
 - 💬 Ask me anything. Atleast, I'll try. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubhav-bagri-72a662190/) , [Email](mailto:anubhavbagri01@gmail.com)
 
-<!--- ![](https://github-readme-stats.vercel.app/api?username=anubhavbagri&show_icons=true)  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavbagri&label=Profile Views&color=blue&style=plastic" alt="anubhavbagri" /> </p>
+
 <a href="https://github.com/anubhavbagri">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavbagri&show_icons=true&theme=dracula&line_height=27" alt="Anubhav's github stats"/>
 </a>
-<!--- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anubhavbagri.anubhavbagri) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavbagri&label=Profile Views&color=blue&style=plastic" alt="anubhavbagri" /> </p>
