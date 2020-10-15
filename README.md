@@ -8,6 +8,10 @@
   <img align="left" alt="Anubhav's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
 
+<a href="https://dribbble.com/anubhavbagri">
+  <img align="left" alt="Anubhav's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>
+
 <a href="https://github.com/anubhavbagri">
   <img align="left" alt="Anubhav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
