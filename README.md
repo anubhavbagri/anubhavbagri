@@ -1,7 +1,7 @@
 # I am a Designer, Developer and Coder. <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
 <a href="https://www.linkedin.com/in/anubhavbagri/">
-  <img align="left" alt="anubhav's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="anubhav's Linkedin" width="22px" style="color=blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.behance.net/anubhavbagri">
@@ -27,7 +27,7 @@ I'm Anubhav Bagri, IT undergrad at Manipal University Jaipur. I am a highly moti
 
 ### Summary 👨‍
 - 🔭 I’m constantly trying to improve my concepts of Data Structures.
-- 🌱 I'm currently learning flutter.
+- 🌱 I'm currently learning App development.
 - 💻 I love designing be it graphics or UI. You can check my portfolio here : [Behance](https://www.behance.net/anubhavbagri)
 - 👯 I’m looking to collaborate on project ideas and participate actively in hackathons.
 - 💬 Ask me anything. Atleast, I'll try. 
